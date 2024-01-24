@@ -1,6 +1,6 @@
 # Logistic Map and Chaos Exploration
 
-This repository, found at [galenwilkerson/logistic_equation](https://github.com/galenwilkerson/Logistic-Map-and-Chaos-Exploration), contains a Python notebook and scripts dedicated to exploring the logistic map. This project illustrates the transition from simple dynamics to complex, chaotic behavior in a fundamental nonlinear system.
+This repository, found at [galenwilkerson/Logistic-Map-and-Chaos-Exploration](https://github.com/galenwilkerson/Logistic-Map-and-Chaos-Exploration), contains a Python notebook and scripts dedicated to exploring the logistic map. This project illustrates the transition from simple dynamics to complex, chaotic behavior in a fundamental nonlinear system.
 
 ## Overview
 
