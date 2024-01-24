@@ -1,6 +1,3 @@
-Great! With the repository URL, I'll update the `README.md` template to reflect your specific GitHub repository for the logistic equation project:
-
-```markdown
 # Logistic Map and Chaos Exploration
 
 This repository, found at [galenwilkerson/logistic_equation](https://github.com/galenwilkerson/logistic_equation), contains a Python notebook and scripts dedicated to exploring the logistic map. This project illustrates the transition from simple dynamics to complex, chaotic behavior in a fundamental nonlinear system.
@@ -54,7 +51,3 @@ This project is open-source and available under [specify the license].
 ## Acknowledgments
 
 - The project is inspired by the foundational work in chaos theory and dynamical systems by pioneers like Robert May and Pierre François Verhulst.
-- Reference to the logistic map tutorial: [amunategui.github.io/reinforcement-learning](http://amunategui.github.io/reinforcement-learning/)
-```
-
-This `README.md` is tailored to your logistic equation project on GitHub, providing users with a clear understanding of the project's purpose, how to get started, and how to contribute. Don't forget to specify the type of license under which your project is released in the "License" section.
